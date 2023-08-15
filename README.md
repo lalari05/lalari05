@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🖤
 
-<!--
-**lalari05/lalari05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Larissa
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou me desnvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desnvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você entra em contato comigo 📫
+
+  larissa.conceicao.silva@escola.pr.gov.br
+
+
+
+![](https://media.tenor.com/HJ8Nxo6FkI0AAAAM/broncos-hello.gif)
